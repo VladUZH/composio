@@ -12565,7 +12565,7 @@
     ],
     "toolCount": 48,
     "triggerCount": 0,
-    "version": "20260316_00",
+    "version": "20260331_00",
     "tools": [
       {
         "slug": "SERPAPI_BAIDU_SEARCH",
@@ -52867,7 +52867,7 @@
     ],
     "toolCount": 125,
     "triggerCount": 0,
-    "version": "20260316_00",
+    "version": "20260331_00",
     "tools": [
       {
         "slug": "MONDAY_ACCOUNT_TRIGGER_STATISTICS",
@@ -62269,7 +62269,7 @@
     ],
     "toolCount": 68,
     "triggerCount": 0,
-    "version": "20260316_00",
+    "version": "20260331_00",
     "tools": [
       {
         "slug": "ROCKETLANE_ADD_ASSIGNEE_TO_TASK",
@@ -67875,9 +67875,9 @@
     "composioManagedAuthSchemes": [
       "OAUTH2"
     ],
-    "toolCount": 90,
+    "toolCount": 89,
     "triggerCount": 0,
-    "version": "20260324_00",
+    "version": "20260331_00",
     "tools": [
       {
         "slug": "SHARE_POINT_ADD_ATTACHMENT_TO_LIST_ITEM",
@@ -68073,11 +68073,6 @@
         "slug": "SHARE_POINT_GET_LIST_ITEM_BY_ID",
         "name": "Get List Item by ID",
         "description": "Tool to retrieve a SharePoint list item by ID. Use when you need to fetch a specific item after knowing its ID."
-      },
-      {
-        "slug": "SHARE_POINT_GET_LIST_ITEM_ETAG",
-        "name": "Get List Item ETag",
-        "description": "Tool to fetch the ETag of a SharePoint list item. Use when you need the ETag for concurrency control before update or delete operations."
       },
       {
         "slug": "SHARE_POINT_GET_LIST_ITEMS",
@@ -72975,7 +72970,7 @@
     ],
     "toolCount": 265,
     "triggerCount": 0,
-    "version": "20260324_00",
+    "version": "20260331_00",
     "tools": [
       {
         "slug": "ZOHO_BOOKS_ACCEPT_ESTIMATE",
@@ -79052,7 +79047,7 @@
     ],
     "toolCount": 99,
     "triggerCount": 0,
-    "version": "20260313_00",
+    "version": "20260331_00",
     "tools": [
       {
         "slug": "PRODUCTBOARD_ADD_NOTE_FOLLOWERS",
@@ -83776,7 +83771,7 @@
     ],
     "toolCount": 64,
     "triggerCount": 0,
-    "version": "20260312_00",
+    "version": "20260331_00",
     "tools": [
       {
         "slug": "LEVER_ADD_OPPORTUNITY_LINKS",
@@ -192708,9 +192703,9 @@
     "authSchemes": [
       "API_KEY"
     ],
-    "toolCount": 59,
+    "toolCount": 58,
     "triggerCount": 0,
-    "version": "20260312_00",
+    "version": "20260331_00",
     "tools": [
       {
         "slug": "LOYVERSE_CREATE_OR_UPDATE_CATEGORY",
@@ -192926,11 +192921,6 @@
         "slug": "LOYVERSE_LIST_DISCOUNTS",
         "name": "List Discounts",
         "description": "Tool to list discounts. Use when fetching a paginated set of discounts for display or sync."
-      },
-      {
-        "slug": "LOYVERSE_LIST_DISCOUNTS2",
-        "name": "List Discounts 2",
-        "description": "Tool to get a list of discounts with advanced filtering options. Use when you need to filter discounts by IDs, creation date, update date, or include deleted discounts. The list is sorted by created_at property in descending order (most recent first)."
       },
       {
         "slug": "LOYVERSE_LIST_EMPLOYEES2",
@@ -197496,9 +197486,9 @@
     "authSchemes": [
       "API_KEY"
     ],
-    "toolCount": 95,
+    "toolCount": 94,
     "triggerCount": 0,
-    "version": "20260312_00",
+    "version": "20260331_00",
     "tools": [
       {
         "slug": "MIXMAX_ADD_CONTACT_TO_GROUP",
@@ -197849,11 +197839,6 @@
         "slug": "MIXMAX_LIST_CONTACTS",
         "name": "List Contacts",
         "description": "Tool to retrieve all Mixmax contacts (people you've emailed using Mixmax). Use when you need to list, search, or analyze contacts with optional analytics data. Note: Endpoint is deprecated but remains functional. Does not return contacts shared via contact groups unless search parameter is provided."
-      },
-      {
-        "slug": "MIXMAX_LIST_INSIGHTS_REPORTS",
-        "name": "List insights reports",
-        "description": "Tool to retrieve all insights reports from Mixmax. Use when you need to list all available reports with their metadata, including title, query, userId, and timestamps."
       },
       {
         "slug": "MIXMAX_LIST_RULE_ACTIONS",
@@ -202169,7 +202154,7 @@
     ],
     "toolCount": 159,
     "triggerCount": 0,
-    "version": "20260313_00",
+    "version": "20260331_00",
     "tools": [
       {
         "slug": "NEW_RELIC_ADD_NOTIFICATION_CHANNELS_TO_POLICY",
@@ -202769,7 +202754,7 @@
       {
         "slug": "NEW_RELIC_SEND_TRACES",
         "name": "Send Traces",
-        "description": "Tool to send distributed tracing data to New Relic. Supports both New Relic format and Zipkin format. Use this to report trace spans for monitoring distributed system performance and debugging latency issues."
+        "description": "Tool to send distributed tracing data to New Relic in New Relic format. Use this to report trace spans for monitoring distributed system performance and debugging latency issues."
       },
       {
         "slug": "NEW_RELIC_TEST_AI_NOTIFICATION_DESTINATION_BY_ID",
@@ -211067,7 +211052,7 @@
     ],
     "toolCount": 90,
     "triggerCount": 0,
-    "version": "00000000_00",
+    "version": "20260331_00",
     "tools": [
       {
         "slug": "PENPOT_CREATE_ACCESS_TOKEN",
@@ -211763,7 +211748,7 @@
     ],
     "toolCount": 69,
     "triggerCount": 0,
-    "version": "20260227_00",
+    "version": "20260331_00",
     "tools": [
       {
         "slug": "PERSONA_ADD_TAG_TO_ACCOUNT",
@@ -212235,7 +212220,7 @@
     ],
     "toolCount": 53,
     "triggerCount": 0,
-    "version": "20260312_00",
+    "version": "20260331_00",
     "tools": [
       {
         "slug": "PHANTOMBUSTER_ABORT_AGENT_V1",
@@ -212604,7 +212589,32 @@
         "description": "Tool to get usage information and remaining credits for your Piloterr account. Use when you need to check account usage and credit details."
       }
     ],
-    "triggers": []
+    "triggers": [],
+    "authConfigDetails": [
+      {
+        "mode": "API_KEY",
+        "name": "piloterr_api_key",
+        "fields": {
+          "auth_config_creation": {
+            "required": [],
+            "optional": []
+          },
+          "connected_account_initiation": {
+            "required": [
+              {
+                "name": "generic_api_key",
+                "displayName": "Piloterr API Key",
+                "type": "string",
+                "description": "The API key required for authenticating requests to the Piloterr API.",
+                "required": true,
+                "default": null
+              }
+            ],
+            "optional": []
+          }
+        }
+      }
+    ]
   },
   {
     "slug": "pilvio",
@@ -231001,7 +231011,7 @@
     ],
     "toolCount": 40,
     "triggerCount": 0,
-    "version": "20260312_00",
+    "version": "20260331_00",
     "tools": [
       {
         "slug": "SCALE_AI_ADD_STUDIO_ASSIGNMENTS",
@@ -244360,7 +244370,7 @@
     ],
     "toolCount": 79,
     "triggerCount": 0,
-    "version": "20260312_00",
+    "version": "20260331_00",
     "tools": [
       {
         "slug": "SYNTHFLOW_AI_ADD_KB_SOURCE_DOCUMENT",
@@ -253469,9 +253479,9 @@
     "authSchemes": [
       "API_KEY"
     ],
-    "toolCount": 147,
+    "toolCount": 146,
     "triggerCount": 0,
-    "version": "20260316_00",
+    "version": "20260331_00",
     "tools": [
       {
         "slug": "VERCEL_ADD_ENVIRONMENT_VARIABLE",
@@ -253531,7 +253541,7 @@
       {
         "slug": "VERCEL_CREATE_DEPLOYMENT",
         "name": "Create Deployment",
-        "description": "Create a new deployment on Vercel. Deploys static files or connects to a Git repository. **File-based deployments**: Provide `name` and `files` array with file content (inline HTML/CSS/JS). **Git-based deployments**: Provide `name` and `gitSource` with repository details. IMPORTANT: Always provide either `slug` (team slug) or `teamId` (team ID starting with 'team_') to specify the team context. Use VERCEL_GET_TEAMS to find the correct team slug. Example minimal file deployment: { \"name\": \"my-project\", \"slug\": \"my-team\", \"files\": [{\"file\": \"index.html\", \"data\": \"<html><body>Hello World</body></html>\"}] }"
+        "description": "DEPRECATED: Use VERCEL_CREATE_NEW_DEPLOYMENT instead. Create a new deployment on Vercel. Deploys static files or connects to a Git repository. **File-based deployments**: Provide `name` and `files` array with file content (inline HTML/CSS/JS). **Git-based deployments**: Provide `name` and `gitSource` with repository details. IMPORTANT: Always provide either `slug` (team slug) or `teamId` (team ID starting with 'team_') to specify the team context. Use VERCEL_GET_TEAMS to find the correct team slug. Example minimal file deployment: { \"name\": \"my-project\", \"slug\": \"my-team\", \"files\": [{\"file\": \"index.html\", \"data\": \"<html><body>Hello World</body></html>\"}] }"
       },
       {
         "slug": "VERCEL_CREATE_DNS_RECORD",
@@ -253662,11 +253672,6 @@
         "slug": "VERCEL_DELETE_WEBHOOK",
         "name": "Delete Vercel Webhook",
         "description": "Delete a webhook by its unique ID to stop receiving event notifications. This action permanently removes the webhook configuration. Use VERCEL_GET_WEBHOOKS to find webhook IDs if needed. The deletion is idempotent - deleting an already deleted webhook returns a 404 error."
-      },
-      {
-        "slug": "VERCEL_DEPLOY_EDGE_FUNCTION",
-        "name": "Deploy Edge Function",
-        "description": "Deploy edge functions to Vercel's Edge Runtime. Use this to deploy serverless functions with: - Fast cold starts (near-instant) - Global distribution (runs at the edge, closest to users) - JavaScript/TypeScript ES modules with Web APIs Example minimal deployment: { \"name\": \"my-edge-api\", \"slug\": \"my-team-slug\", \"files\": [ { \"file\": \"api/hello.js\", \"data\": \"export const runtime = 'edge';\\nexport function GET() { return new Response('Hello!'); }\" } ] } Note: For team deployments, you MUST provide the 'slug' parameter with your team slug."
       },
       {
         "slug": "VERCEL_DOWNLOAD_ARTIFACT",
